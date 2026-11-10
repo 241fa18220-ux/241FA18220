@@ -1,0 +1,188 @@
+Country/Region,Confirmed,Deaths,New cases,New deaths,New recovered,Deaths / 100 Cases,Confirmed last week,WHO Region,Recovered
+Afghanistan (wave2),58021,1904,212,18,29,3.28,51513,Eastern Mediterranean,34017
+Albania (wave2),7808,216,234,11,101,2.77,6048,Europe,3706
+Algeria (wave2),44757,1744,1232,14,1198,3.9,34352,Africa,25430
+Andorra (wave2),1451,78,20,0,0,5.38,1282,Europe,1084
+Angola (wave2),1520,62,36,2,0,4.08,1086,Africa,327
+Antigua and Barbuda (wave2),138,4,8,0,8,2.9,110,Americas,88
+Argentina (wave2),267866,4588,9780,216,3291,1.71,189622,Americas,97976
+Armenia (wave2),59824,1066,146,11,299,1.78,50722,Europe,35998
+Australia (wave2),24485,250,736,11,219,1.02,18021,Western Pacific,12570
+Austria (wave2),32893,1070,172,2,59,3.25,28627,Europe,24632
+Azerbaijan (wave2),48714,634,792,11,893,1.3,40440,Europe,31377
+Bahamas (wave2),611,16,80,0,0,2.62,252,Americas,123
+Bahrain (wave2),63171,212,702,2,674,0.34,53557,Eastern Mediterranean,48748
+Bangladesh (wave2),361960,4448,5544,67,2882,1.23,300807,South-East Asia,169672
+Barbados (wave2),176,10,0,0,0,5.68,154,Americas,127
+Belarus (wave2),107602,807,238,7,107,0.75,96009,Europe,81664
+Belgium (wave2),106285,14733,804,2,22,13.86,92936,Europe,23560
+Belize (wave2),77,3,0,0,0,3.9,58,Americas,35
+Benin (wave2),2832,52,0,0,0,1.84,2323,Africa,1399
+Bhutan (wave2),158,0,8,0,2,0.0,130,South-East Asia,116
+Bolivia (wave2),113890,3970,3504,115,494,3.49,88437,Americas,28995
+Bosnia and Herzegovina (wave2),16797,441,1462,25,600,2.63,12295,Europe,6656
+Botswana (wave2),1182,3,106,2,18,0.25,757,Africa,85
+Brazil (wave2),3907800,131427,46568,1105,53965,3.36,3072037,Americas,2492965
+Brunei (wave2),226,4,0,0,0,1.77,204,Western Pacific,186
+Bulgaria (wave2),16994,520,388,13,368,3.06,12947,Europe,7540
+Burkina Faso (wave2),1760,80,28,0,10,4.55,1544,Africa,1250
+Burma (wave2),560,9,0,0,3,1.61,494,South-East Asia,394
+Burundi (wave2),605,2,34,0,35,0.33,467,Africa,406
+Cabo Verde (wave2),3725,33,42,0,165,0.89,3003,Africa,2092
+Cambodia (wave2),362,0,2,0,6,0.0,248,Western Pacific,198
+Cameroon (wave2),27376,586,804,11,0,2.14,23428,Africa,19628
+Canada (wave2),186333,13416,1364,20,0,7.2,163741,Americas,0
+Central African Republic (wave2),7358,88,0,0,0,1.2,6595,Africa,2087
+Chad (wave2),1475,112,14,0,0,7.59,1289,Africa,1094
+Chile (wave2),556677,13780,4266,135,2974,2.48,482892,Americas,431938
+China (wave2),138853,6984,426,7,11,5.03,124152,Western Pacific,106473
+Colombia (wave2),411362,13166,32612,914,18390,3.2,295807,Americas,177067
+Comoros (wave2),566,10,0,0,0,1.77,484,Africa,443
+Congo (Brazzaville) (wave2),5120,81,324,5,117,1.58,4134,Africa,1119
+Congo (Kinshasa) (wave2),14150,312,26,7,304,2.2,12242,Africa,7695
+Costa Rica (wave2),25346,172,1224,20,141,0.68,16724,Americas,5162
+Cote d'Ivoire (wave2),25048,144,118,0,293,0.57,20752,Africa,13987
+Croatia (wave2),7810,208,48,5,112,2.66,6336,Europe,5314
+Cuba (wave2),4051,130,74,0,3,3.21,3547,Americas,3174
+Cyprus (wave2),1696,28,6,0,0,1.65,1505,Europe,1150
+Czechia (wave2),24826,560,384,4,0,2.26,20442,Europe,15428
+Denmark (wave2),22018,920,218,0,123,4.18,19507,Europe,17017
+Djibouti (wave2),8094,87,18,0,18,1.07,7279,Eastern Mediterranean,6719
+Dominica (wave2),29,0,0,0,0,0.0,26,Americas,24
+Dominican Republic (wave2),102650,1624,2496,36,2562,1.58,78236,Americas,40775
+Ecuador (wave2),129858,8298,934,31,0,6.39,108199,Americas,47110
+Egypt (wave2),147971,6978,840,83,1611,4.72,128183,Eastern Mediterranean,47031
+El Salvador (wave2),24056,612,810,14,208,2.54,17700,Americas,10500
+Equatorial Guinea (wave2),4914,76,0,0,0,1.55,4453,Africa,1137
+Eritrea (wave2),424,0,4,0,3,0.0,364,Africa,258
+Estonia (wave2),3254,104,0,0,2,3.2,2930,Europe,2596
+Eswatini (wave2),3706,51,218,4,62,1.38,2648,Africa,1384
+Ethiopia (wave2),23275,342,1158,9,272,1.47,14800,Africa,8621
+Fiji (wave2),43,0,0,0,0,0.0,39,Western Pacific,24
+Finland (wave2),11837,494,10,0,0,4.17,10643,Europe,9342
+France (wave2),352563,45318,5102,31,427,12.85,310333,Europe,109636
+Gabon (wave2),11502,74,410,0,350,0.64,9328,Africa,6321
+Gambia (wave2),522,12,98,4,10,2.3,162,Africa,89
+Georgia (wave2),1819,24,12,0,3,1.32,1507,Europe,1245
+Germany (wave2),331379,13688,890,2,414,4.13,294821,Europe,256924
+Ghana (wave2),53798,252,1310,0,491,0.47,41224,Africa,40231
+Greece (wave2),6763,303,68,0,0,4.48,5817,Europe,1855
+Greenland (wave2),22,0,2,0,0,0.0,19,Europe,18
+Grenada (wave2),37,0,0,0,0,0.0,33,Americas,31
+Guatemala (wave2),72494,2642,512,49,1349,3.64,56607,Americas,43814
+Guinea (wave2),11288,68,94,4,168,0.6,9556,Africa,8447
+Guinea-Bissau (wave2),3126,39,0,0,0,1.25,2826,Africa,1084
+Guyana (wave2),622,30,38,0,0,4.82,489,Americas,244
+Haiti (wave2),11744,237,50,2,0,2.02,10227,Americas,5893
+Holy See (wave2),19,0,0,0,0,0.0,17,Europe,16
+Honduras (wave2),63586,1749,930,90,187,2.75,50186,Americas,6803
+Hungary (wave2),7117,894,26,0,0,12.56,6292,Europe,4494
+Iceland (wave2),2966,15,14,0,0,0.51,2667,Europe,2461
+India (wave2),2368117,50112,88914,1147,53757,2.12,1675240,South-East Asia,1284074
+Indonesia (wave2),160485,7257,3050,103,2429,4.52,127910,South-East Asia,78534
+Iran (wave2),469770,23868,4868,382,3090,5.08,400493,Eastern Mediterranean,344444
+Iraq (wave2),180136,6687,5106,173,3083,3.71,137305,Eastern Mediterranean,104144
+Ireland (wave2),41427,2646,22,0,0,6.39,37361,Europe,31541
+Israel (wave2),102376,711,4058,7,173,0.69,75404,Europe,36630
+Italy (wave2),394058,52668,336,9,235,13.37,354705,Europe,268101
+Jamaica (wave2),1365,15,22,0,0,1.1,1173,Americas,964
+Japan (wave2),49827,1497,1188,0,582,3.0,37274,Western Pacific,29660
+Jordan (wave2),1882,16,16,0,0,0.85,1773,Eastern Mediterranean,1405
+Kazakhstan (wave2),135437,878,3052,0,2933,0.65,106529,Europe,73445
+Kenya (wave2),28760,428,744,9,144,1.49,19968,Africa,10575
+Kosovo (wave2),11861,278,992,29,438,2.34,8522,Europe,5436
+Kuwait (wave2),103006,657,1212,9,1094,0.64,86656,Eastern Mediterranean,74327
+Kyrgyzstan (wave2),53274,1952,966,43,1307,3.66,39357,Europe,28627
+Laos (wave2),32,0,0,0,0,0.0,28,Western Pacific,26
+Latvia (wave2),1950,46,0,0,0,2.36,1728,Europe,1411
+Lebanon (wave2),6211,76,264,0,27,1.22,4212,Eastern Mediterranean,2307
+Lesotho (wave2),808,18,0,0,0,2.23,521,Africa,173
+Liberia (wave2),1867,108,10,0,8,5.78,1605,Africa,872
+Libya (wave2),4523,96,316,7,38,2.12,2871,Eastern Mediterranean,779
+Liechtenstein (wave2),138,2,0,0,0,1.45,125,Europe,109
+Lithuania (wave2),3230,120,22,0,6,3.72,2823,Europe,2187
+Luxembourg (wave2),10114,168,98,0,285,1.66,8177,Europe,6514
+Madagascar (wave2),15504,136,790,11,1090,0.88,10372,Africa,8451
+Malawi (wave2),5862,148,48,0,10,2.52,4338,Africa,2221
+Malaysia (wave2),14246,186,14,0,2,1.31,12760,Western Pacific,11611
+Maldives (wave2),5390,22,134,0,30,0.41,4349,South-East Asia,3438
+Mali (wave2),4021,186,6,2,3,4.63,3589,Africa,2583
+Malta (wave2),1122,14,2,0,0,1.25,982,Europe,898
+Mauritania (wave2),9933,234,74,0,357,2.36,8588,Africa,6282
+Mauritius (wave2),550,15,0,0,0,2.73,497,Africa,448
+Mexico (wave2),632782,66033,9946,616,13741,10.44,506624,Americas,410144
+Moldova (wave2),37046,1122,240,23,392,3.03,30617,Europe,21808
+Monaco (wave2),186,6,0,0,0,3.23,158,Europe,140
+Mongolia (wave2),462,0,2,0,6,0.0,416,Western Pacific,300
+Montenegro (wave2),4629,68,188,4,112,1.47,3173,Europe,1092
+Morocco (wave2),33419,474,1218,5,184,1.42,25465,Eastern Mediterranean,22347
+Mozambique (wave2),2722,16,64,0,0,0.59,2185,Africa,0
+Namibia (wave2),2949,12,136,0,42,0.41,1949,Africa,136
+Nepal (wave2),30003,72,278,5,1002,0.24,25874,South-East Asia,18568
+Netherlands (wave2),85461,9240,838,2,0,10.81,75591,Europe,255
+New Zealand (wave2),2491,33,2,0,2,1.32,2255,Western Pacific,2044
+Nicaragua (wave2),5502,162,0,0,0,2.94,4563,Americas,3364
+Niger (wave2),1811,104,0,0,0,5.74,1602,Africa,1386
+Nigeria (wave2),65888,1290,1296,4,1326,1.96,53976,Africa,24574
+North Macedonia (wave2),16341,699,254,11,219,4.28,13411,Europe,7511
+Norway (wave2),14611,382,30,0,0,2.61,13099,Europe,11815
+Oman (wave2),123293,590,2106,16,2766,0.48,99180,Eastern Mediterranean,76988
+Pakistan (wave2),438862,8763,2352,36,5747,2.0,385839,Eastern Mediterranean,325385
+Panama (wave2),98307,1983,2292,50,1528,2.02,78918,Americas,47366
+Papua New Guinea (wave2),99,0,0,0,0,0.0,28,Western Pacific,15
+Paraguay (wave2),7277,64,208,4,178,0.88,5435,Americas,3922
+Peru (wave2),623547,27627,27512,1035,7515,4.43,518637,Americas,367938
+Philippines (wave2),131264,2918,3184,23,538,2.22,99902,Western Pacific,35702
+Poland (wave2),69443,2514,674,9,165,3.62,58555,Europe,44356
+Portugal (wave2),80478,2578,270,4,253,3.2,70718,Europe,47756
+Qatar (wave2),175355,248,584,0,486,0.14,155204,Eastern Mediterranean,143543
+Romania (wave2),73443,3309,2208,34,242,4.51,55302,Europe,34822
+Russia (wave2),1306688,20001,11214,153,4923,1.53,1125507,Europe,813036
+Rwanda (wave2),3006,8,116,0,91,0.27,2362,Africa,1316
+Saint Kitts and Nevis (wave2),27,0,0,0,0,0.0,25,Americas,20
+Saint Lucia (wave2),38,0,0,0,0,0.0,33,Americas,30
+Saint Vincent and the Grenadines (wave2),83,0,0,0,0,0.0,72,Americas,53
+San Marino (wave2),1118,63,0,0,0,5.64,1014,Europe,887
+Sao Tome and Principe (wave2),1384,21,4,0,61,1.52,1082,Africa,991
+Saudi Arabia (wave2),430294,4140,3986,49,4181,0.96,367356,Eastern Mediterranean,300964
+Senegal (wave2),15622,291,166,5,109,1.86,12975,Africa,8744
+Serbia (wave2),38626,814,822,16,0,2.11,30817,Europe,0
+Seychelles (wave2),182,0,0,0,0,0.0,157,Africa,53
+Sierra Leone (wave2),2853,99,0,0,6,3.47,2481,Africa,1778
+Singapore (wave2),81341,40,938,0,274,0.05,69651,Western Pacific,61684
+Slovakia (wave2),3490,42,4,0,62,1.2,2871,Europe,2182
+Slovenia (wave2),3339,174,10,0,88,5.21,2832,Europe,2340
+Somalia (wave2),5114,140,36,0,35,2.74,4538,Eastern Mediterranean,2083
+South Africa (wave2),724046,10600,14192,536,15757,1.46,541761,Africa,371149
+South Korea (wave2),22725,450,56,2,163,1.98,20033,Western Pacific,17559
+South Sudan (wave2),3688,69,86,2,0,1.87,3206,Africa,1586
+Spain (wave2),435874,42648,0,0,0,9.78,384012,Europe,203008
+Sri Lanka (wave2),4488,16,46,0,24,0.36,3958,South-East Asia,2863
+Sudan (wave2),18278,1080,78,5,78,5.91,15938,Eastern Mediterranean,8018
+Suriname (wave2),2373,36,88,2,56,1.52,1565,Americas,1249
+Sweden (wave2),127032,8550,796,5,0,6.73,113170,Europe,0
+Switzerland (wave2),55163,2967,130,2,320,5.38,48769,Europe,41715
+Syria (wave2),1078,60,48,4,0,5.57,757,Eastern Mediterranean,0
+Taiwan* (wave2),739,10,8,0,0,1.35,654,Western Pacific,594
+Tajikistan (wave2),11576,90,86,2,93,0.78,10035,Europe,8138
+Tanzania (wave2),814,32,0,0,0,3.93,738,Africa,247
+Thailand (wave2),5275,87,12,0,3,1.65,4712,South-East Asia,4200
+Timor-Leste (wave2),38,0,0,0,0,0.0,35,South-East Asia,0
+Togo (wave2),1398,27,12,0,13,1.93,1135,Africa,819
+Trinidad and Tobago (wave2),237,12,2,0,0,5.06,199,Americas,173
+Tunisia (wave2),2328,75,6,0,24,3.22,2002,Eastern Mediterranean,1562
+Turkey (wave2),363230,8445,1838,31,1571,2.32,319829,Europe,284133
+US (wave2),6864414,222016,112672,1937,44706,3.23,5560282,Americas,1789835
+Uganda (wave2),1805,3,26,0,6,0.17,1550,Africa,1331
+Ukraine (wave2),107354,2454,1670,20,507,2.29,88112,Europe,50223
+United Arab Emirates (wave2),94683,518,528,2,525,0.55,82930,Eastern Mediterranean,70888
+United Kingdom (wave2),482733,68766,1376,13,5,14.25,430569,Europe,1940
+Uruguay (wave2),1923,52,20,2,5,2.7,1543,Americas,1284
+Uzbekistan (wave2),33934,182,1356,9,910,0.54,24866,Europe,15760
+Venezuela (wave2),25581,219,1050,7,341,0.86,17884,Americas,13445
+Vietnam (wave2),690,0,22,0,0,0.0,557,Western Pacific,493
+West Bank and Gaza (wave2),16994,117,304,4,0,0.69,12928,Eastern Mediterranean,5065
+Western Sahara (wave2),16,2,0,0,0,12.5,14,Africa,11
+Yemen (wave2),2706,724,20,7,58,26.76,2348,Eastern Mediterranean,1125
+Zambia (wave2),7283,210,142,2,744,2.88,4823,Africa,3800
+Zimbabwe (wave2),4326,54,384,4,38,1.25,2484,Africa,732

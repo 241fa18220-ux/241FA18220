@@ -1,0 +1,2 @@
+Pipeline stages: 01 load -> 02 validate -> 03 preprocess -> 04 validate outputs -> 05 train (4 regressors, CV) -> 06 evaluate
+-> 07 quality gate -> 08 lifecycle -> 09 inference -> 10 failure injection -> 11 prepare deployment -> 12 monitoring/retrain

@@ -1,0 +1,11 @@
+column,dtype,nulls,unique
+Country/Region,object,0,187
+Confirmed,int64,0,184
+Deaths,int64,0,150
+Recovered,int64,0,178
+New cases,int64,0,122
+New deaths,int64,0,38
+New recovered,int64,0,103
+Deaths / 100 Cases,float64,0,145
+Confirmed last week,int64,0,183
+WHO Region,object,0,6

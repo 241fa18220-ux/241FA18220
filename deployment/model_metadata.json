@@ -1,0 +1,19 @@
+{
+  "deployed_at": "2026-11-09T05:22:28.301308+00:00",
+  "metrics": {
+    "mae": 22034.38973916504,
+    "rmse": 57062.04559932842,
+    "r2": 0.7794324694171539,
+    "baseline_rmse": 121779.14005370064,
+    "rmse_vs_baseline": 0.468569950273634
+  },
+  "model_report": {
+    "cv_rmse": {
+      "linear_regression": 118026.20374686965,
+      "decision_tree": 96599.94569712711,
+      "random_forest": 57001.760475495386,
+      "gradient_boosting": 74467.39267804411
+    },
+    "best_model": "random_forest"
+  }
+}

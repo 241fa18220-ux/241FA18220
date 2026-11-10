@@ -1,0 +1,9 @@
+feature,type,score,drifted
+Confirmed,numeric,0.08748120336261321,False
+Deaths,numeric,0.0793128342422186,False
+New cases,numeric,0.07291010907461032,False
+New deaths,numeric,0.9345684842762517,True
+New recovered,numeric,0.022156568207195217,False
+Deaths / 100 Cases,numeric,0.008379242711256719,False
+Confirmed last week,numeric,0.0722690320721219,False
+WHO Region,categorical,0.04608261852636111,False

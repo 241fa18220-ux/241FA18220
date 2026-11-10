@@ -1,0 +1,20 @@
+name: Monitoring
+on:
+  schedule: [{cron: "0 6 * * 1"}]
+  workflow_dispatch:
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: pip install -r requirements.txt
+      - run: |
+          python src/mlops_pipeline/08_automate_lifecycle.py
+          python src/mlops_pipeline/12_create_evolved_dataset.py
+          python src/mlops_pipeline/12_data_drift.py
+          python src/mlops_pipeline/12_performance_monitoring.py
+          python src/mlops_pipeline/12_monitor_trigger.py
+      - uses: actions/upload-artifact@v4
+        with: {name: monitoring-reports, path: reports/}

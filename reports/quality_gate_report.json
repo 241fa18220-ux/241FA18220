@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "checks": {
+    "r2": true,
+    "rmse_vs_baseline": true
+  },
+  "metrics": {
+    "mae": 22034.38973916504,
+    "rmse": 57062.04559932842,
+    "r2": 0.7794324694171539,
+    "baseline_rmse": 121779.14005370064,
+    "rmse_vs_baseline": 0.468569950273634
+  },
+  "thresholds": {
+    "min_r2": 0.7,
+    "max_rmse_vs_baseline": 0.6
+  }
+}

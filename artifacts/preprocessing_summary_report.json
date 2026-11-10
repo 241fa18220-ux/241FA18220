@@ -1,0 +1,12 @@
+{
+  "train_shape": [
+    149,
+    13
+  ],
+  "test_shape": [
+    38,
+    13
+  ],
+  "nan_in_train": 0,
+  "status": "ok"
+}

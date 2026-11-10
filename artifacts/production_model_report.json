@@ -1,0 +1,9 @@
+{
+  "cv_rmse": {
+    "linear_regression": 118026.20374686965,
+    "decision_tree": 96599.94569712711,
+    "random_forest": 57001.760475495386,
+    "gradient_boosting": 74467.39267804411
+  },
+  "best_model": "random_forest"
+}

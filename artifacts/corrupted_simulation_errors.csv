@@ -1,0 +1,5 @@
+case,detected,issues
+missing_column,True,"[{'check': 'missing_columns', 'detail': ['WHO Region']}]"
+negative_counts,True,"[{'check': 'negative_counts', 'detail': ['Confirmed']}, {'check': 'deaths_exceed_confirmed', 'detail': 1}, {'check': 'recovered_exceeds_confirmed', 'detail': 1}]"
+recovered_exceeds_confirmed,True,"[{'check': 'recovered_exceeds_confirmed', 'detail': 1}]"
+duplicate_countries,True,"[{'check': 'duplicate_rows', 'detail': 5}, {'check': 'duplicate_countries', 'detail': 5}]"

@@ -1,0 +1,22 @@
+{
+  "n_train": 149,
+  "n_test": 38,
+  "n_features": 13,
+  "feature_names": [
+    "num__Confirmed",
+    "num__Deaths",
+    "num__New cases",
+    "num__New deaths",
+    "num__New recovered",
+    "num__Deaths / 100 Cases",
+    "num__Confirmed last week",
+    "cat__WHO Region_Africa",
+    "cat__WHO Region_Americas",
+    "cat__WHO Region_Eastern Mediterranean",
+    "cat__WHO Region_Europe",
+    "cat__WHO Region_South-East Asia",
+    "cat__WHO Region_Western Pacific"
+  ],
+  "target_mean_train": 48957.12751677852,
+  "target_mean_test": 57196.71052631579
+}

@@ -1,0 +1,40 @@
+{
+  "success": true,
+  "steps": [
+    {
+      "step": "01_load_data.py",
+      "returncode": 0,
+      "seconds": 0.33
+    },
+    {
+      "step": "02_validate_data.py",
+      "returncode": 0,
+      "seconds": 0.35
+    },
+    {
+      "step": "03_preprocessing.py",
+      "returncode": 0,
+      "seconds": 1.21
+    },
+    {
+      "step": "04_validate_outputs.py",
+      "returncode": 0,
+      "seconds": 0.3
+    },
+    {
+      "step": "05_train_registry.py",
+      "returncode": 0,
+      "seconds": 2.96
+    },
+    {
+      "step": "06_model_evaluation.py",
+      "returncode": 0,
+      "seconds": 1.98
+    },
+    {
+      "step": "07_quality_gate.py",
+      "returncode": 0,
+      "seconds": 0.35
+    }
+  ]
+}

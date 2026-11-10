@@ -1,0 +1,25 @@
+{
+  "all_detected": true,
+  "cases": [
+    {
+      "case": "missing_column",
+      "detected": true,
+      "issues": "[{'check': 'missing_columns', 'detail': ['WHO Region']}]"
+    },
+    {
+      "case": "negative_counts",
+      "detected": true,
+      "issues": "[{'check': 'negative_counts', 'detail': ['Confirmed']}, {'check': 'deaths_exceed_confirmed', 'detail': 1}, {'check': 'recovered_exceeds_confirmed', 'detail': 1}]"
+    },
+    {
+      "case": "recovered_exceeds_confirmed",
+      "detected": true,
+      "issues": "[{'check': 'recovered_exceeds_confirmed', 'detail': 1}]"
+    },
+    {
+      "case": "duplicate_countries",
+      "detected": true,
+      "issues": "[{'check': 'duplicate_rows', 'detail': 5}, {'check': 'duplicate_countries', 'detail': 5}]"
+    }
+  ]
+}

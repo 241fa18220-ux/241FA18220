@@ -1,0 +1,6 @@
+{
+  "retrain": true,
+  "reasons": [
+    "data drift in ['New deaths']"
+  ]
+}
